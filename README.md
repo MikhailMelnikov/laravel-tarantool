@@ -17,7 +17,7 @@ Laravel  | Package
 #### Via Composer
 
 ```
-composer require chocofamilyme/laravel-tarantool
+composer require MikhailMelnikov/laravel-tarantool
 ```
 
 Configuration
