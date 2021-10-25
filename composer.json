@@ -1,5 +1,5 @@
 {
-    "name": "MikhailMelnikov/laravel-tarantool",
+    "name": "mikhailmelnikov/laravel-tarantool",
     "description": "A Tarantool based Eloquent ORM and Query builder for Laravel",
     "type": "library",
     "keywords": [
